@@ -13,4 +13,4 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=vickychhetri&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Snake](https://github.com/vickychhetri/vickychhetri/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/vickychhetri/vickychhetri/output/github-contribution-grid-snake.svg)
