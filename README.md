@@ -21,12 +21,10 @@
 - 🧠 I'm learning: **AI + PHP + System Programming + Go**
 - 🛠️ Favorite stack: **Laravel + Go + Tailwind**
 - 💬 Ask me about: **SaaS ideas, clean architecture, APIs**
-
-📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/vicky-chhetri-970983192/) | [Email](mailto:vickychhetri4@gmail.com)
-
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=vickychhetri&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Snake](https://raw.githubusercontent.com/vickychhetri/vickychhetri/output/github-contribution-grid-snake.svg)
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/vicky-chhetri-970983192/) | [Email](mailto:vickychhetri4@gmail.com)
