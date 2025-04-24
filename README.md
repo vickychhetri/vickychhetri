@@ -4,6 +4,15 @@
 
 🔧 Proficient in: PHP, Golang, SQL, JavaScript.
 
+### 🛠️ Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/vicky-chhetri-970983192/) | [Email](mailto:vickychhetri4@gmail.com)
 
