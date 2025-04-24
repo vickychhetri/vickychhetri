@@ -7,6 +7,8 @@
 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/vicky-chhetri-970983192/) | [Email](mailto:vickychhetri4@gmail.com)
 
+![GitHub Snake dark](https://raw.githubusercontent.com/vickychhetri/vickychhetri/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickychhetri&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickychhetri&layout=compact&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
