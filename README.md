@@ -7,7 +7,7 @@ I'm a Senior Software Engineer with over 5 years of experience architecting and 
 - 💼 **Current Role:** Senior Software Engineer
 - 🎯 **Core Expertise:** Backend Development | System Architecture | API Design | Performance Optimization
 - 🌱 **Currently Exploring:** AI Integration, System Programming, Advanced Go Patterns
-- 🏗️ **Building:** [Pheri](https://github.com/vickychhetri/pheri) - A terminal-based MySQL client
+- 🏗️ **Building:** High-performance database tools and developer utilities
 
 ---
 
@@ -30,13 +30,18 @@ I'm a Senior Software Engineer with over 5 years of experience architecting and 
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Pheri** | Terminal-based MySQL client with intuitive interface | Go, SQL, TUI |
-| **Personal AI Integration** | Exploring AI-assisted development workflows | PHP, OpenAI API |
-| **System Programming** | Deepening knowledge of low-level systems | Go, C |
+| **[MySQL DataStream](https://github.com/vickychhetri/expsql)** | High-performance database export/import tool with parallel processing, resumable exports, and automatic strategy selection | Go, MySQL |
+| **[Pheri](https://github.com/vickychhetri/pheri)** | Terminal-based MySQL client with intuitive interface | Go, SQL, TUI |
+
+### 🔧 MySQL DataStream Highlights
+- **Smart Strategy Selection** – Automatically chooses optimal export method (standard, streaming, or parallel)
+- **Parallel Processing** – Multi-worker architecture for large datasets
+- **Resumable Exports** – Interrupt and resume without starting over
+- **Flexible Export Options** – Design-only, data-only, compression, and specific table selection
 
 ---
 
