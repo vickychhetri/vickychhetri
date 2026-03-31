@@ -1,30 +1,60 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Vicky+Chhetri;Senior+Software+Engineer;Full-Stack+Developer;Building+Scalable+Systems&center=true&width=500&height=50)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Vicky+Chhetri;Senior+Software+Engineer;Always+building+something+cool&center=true&width=500&height=50)](https://git.io/typing-svg)
+## 👋 About Me
 
-💼 Senior Software Developer with experience in full-stack development.
+I'm a Senior Software Engineer with over 5 years of experience architecting and building scalable web applications. I specialize in backend development with PHP and Go, and have a strong foundation in database design, API architecture, and system optimization.
 
-🔧 Proficient in: PHP, Golang, SQL, JavaScript.
+- 💼 **Current Role:** Senior Software Engineer
+- 🎯 **Core Expertise:** Backend Development | System Architecture | API Design | Performance Optimization
+- 🌱 **Currently Exploring:** AI Integration, System Programming, Advanced Go Patterns
+- 🏗️ **Building:** [Pheri](https://github.com/vickychhetri/pheri) - A terminal-based MySQL client
 
-### 🛠️ Tech Stack
+---
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🛠️ Technical Expertise
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickychhetri&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickychhetri&show_icons=true&theme=radical)
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 💡 Did you know?
-- 🔭 I’m currently working on: **Pheri - Terminal Mysql Client**
-- 🧠 I'm learning: **AI + PHP + System Programming + Go**
-- 🛠️ Favorite stack: **Laravel + Go + Tailwind**
-- 💬 Ask me about: **SaaS ideas, clean architecture, APIs**
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=vickychhetri&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
-📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/vicky-chhetri-970983192/) | [Email](mailto:vickychhetri4@gmail.com)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickychhetri&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vickychhetri&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+</div>
+
+---
+
+## 🚀 Current Focus
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Pheri** | Terminal-based MySQL client with intuitive interface | Go, SQL, TUI |
+| **Personal AI Integration** | Exploring AI-assisted development workflows | PHP, OpenAI API |
+| **System Programming** | Deepening knowledge of low-level systems | Go, C |
+
+---
+
+## 📫 Professional Contact
+
+- **Email:** [vickychhetri4@gmail.com](mailto:vickychhetri4@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vicky-chhetri-970983192](https://www.linkedin.com/in/vicky-chhetri-970983192/)
+- **GitHub:** [github.com/vickychhetri](https://github.com/vickychhetri)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=vickychhetri&label=Profile%20Views&color=0e75b6&style=flat-square)
