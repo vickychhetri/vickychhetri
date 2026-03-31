@@ -30,15 +30,6 @@ I'm a Senior Software Engineer with over 5 years of experience architecting and 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickychhetri&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vickychhetri&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-</div>
-
----
-
 ## 🚀 Current Focus
 
 | Project | Description | Tech Stack |
