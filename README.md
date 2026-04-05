@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I'm a Senior Software Engineer with over 5 years of experience architecting and building scalable web applications. I specialize in backend development with PHP and Go, and have a strong foundation in database design, API architecture, and system optimization.
+I'm a Senior Software Engineer with over 6 years of experience architecting and building scalable web applications. I specialize in backend development with PHP and Go, and have a strong foundation in database design, API architecture, and system optimization.
 
 - 💼 **Current Role:** Senior Software Engineer
 - 🎯 **Core Expertise:** Backend Development | System Architecture | API Design | Performance Optimization
