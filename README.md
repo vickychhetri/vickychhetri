@@ -34,8 +34,10 @@ I'm a Senior Software Engineer with over 6 years of experience architecting and 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[MySQL DataStream](https://github.com/vickychhetri/expsql)** | High-performance database export/import tool with parallel processing, resumable exports, and automatic strategy selection | Go, MySQL |
-| **[Pheri](https://github.com/vickychhetri/pheri)** | Terminal-based MySQL client with intuitive interface | Go, SQL, TUI |
+| **[PHX](https://github.com/vickychhetri/phx)** | Native Go-based PHP compiler, transpiler, and runtime that converts PHP-compatible source code into optimized Go code and compiles it into standalone machine executables. Supports PHP-style syntax, native concurrency (spawn, channels), databases, file I/O, and exception handling. | Go, Compiler Design, Runtime Systems, PHP, AST, Concurrency |
+| **[MySQL DataStream](https://github.com/vickychhetri/expsql)** | High-performance database export/import tool with parallel processing, resumable exports, and automatic strategy selection. | Go, MySQL |
+| **[Pheri](https://github.com/vickychhetri/pheri)** | Terminal-based MySQL client with an intuitive command-line interface. | Go, SQL, TUI |
+
 
 ### 🔧 MySQL DataStream Highlights
 - **Smart Strategy Selection** – Automatically chooses optimal export method (standard, streaming, or parallel)
